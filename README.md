@@ -2,6 +2,12 @@
 
 ### Public repository for the Vs Itishe Friday Night Funkin' Mod - Doubles as an archive
 
+> [!NOTE]
+> This Friday Night Funkin' Mod currently runs on Psych Engine
+> It is planned to be moved to [Magicfork](https://github.com/melodiiCam2B/Magicfork)<br>
+> - [ ] **Port to Magicfork**
+> - [ ] **Update to v1**
+
 <details>
   <summary>Releases</summary>
   - [Demo 1.0](https://github.com/melodiiCam2B/vs_itishe_project/releases/tag/1.0)
