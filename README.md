@@ -1,9 +1,10 @@
 <div align="center">
 
-# Vs Itishe
+## **Vs Itishe**
 **Public repository for the Vs Itishe Friday Night Funkin' Mod — Doubles as an archive**
+<small>- README.md will be updated occasionally or when the project</small>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![Commits](https://img.shields.io/github/commit-activity/t/melodiiCam2B/vs_itishe_project/main)](https://github.com/melodiiCam2B/vs_itishe_project/commits/main/) ![GitHub Downloads](https://img.shields.io/github/downloads/melodiiCam2B/vs_itishe_project/latest/total)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![Commits](https://img.shields.io/github/commit-activity/t/melodiiCam2B/vs_itishe_project/main)](https://github.com/melodiiCam2B/vs_itishe_project/commits/main/) [![GitHub Release](https://img.shields.io/github/release/melodiiCam2B/vs_itishe_project.svg?style=flat)]() 
 
 <img src="docs/FNF_logo.png" width="300" alt="FNF Logo">
 
@@ -17,8 +18,6 @@
 
 </div>
 
----
-
 ## Notes
 
 > [!TODO]
@@ -27,13 +26,7 @@
 > - [ ] Optimize code
 > - [ ] Convert sprites to texture atlases
 
----
-
 ## Releases
-
-<details>
-<summary>Click to view previous releases</summary>
 
 - [1.0 - Release](https://github.com/melodiiCam2B/vs_itishe_project/releases/tag/1.0)
 - [1.1 - Update](https://github.com/melodiiCam2B/vs_itishe_project/releases/tag/1.1)
-</details>
