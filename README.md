@@ -4,7 +4,7 @@
 **Public repository for the Vs Itishe Friday Night Funkin' Mod — Doubles as an archive**
 
 
-<small>*README.md will be updated occasionally or when the project*</small>
+<small>*this README will be updated occasionally or when the project updates*</small>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![Commits](https://img.shields.io/github/commit-activity/t/melodiiCam2B/vs_itishe_project/main)](https://github.com/melodiiCam2B/vs_itishe_project/commits/main/) [![GitHub Release](https://img.shields.io/github/release/melodiiCam2B/vs_itishe_project.svg?style=flat)]() 
 
@@ -23,6 +23,7 @@
 ## Notes
 
 > [!TODO]
+> List of things we still need to do </br>
 > - [ ] Port to Magicfork
 > - [ ] Update to v1
 > - [ ] Optimize code
